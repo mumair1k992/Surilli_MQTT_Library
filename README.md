@@ -14,7 +14,7 @@ publish and subscribe.
 
 MCU                | Tested Works | Doesn't Work|
 ------------------ | :----------: | :----------:|
-Atmega328 @ 16MHz  |      \/        |             |     
+Atmega328 @ 16MHz  |     [x]      |             |     
 Atmega32u4 @ 16MHz |              |             |    
 Atmega32u4 @ 8MHz  |              |             |    
 ESP8266            |              |             |   
