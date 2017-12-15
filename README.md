@@ -5,8 +5,8 @@ Arduino library for MQTT support, including access to Surilli.IO. Works with
 the Surilli GSM, Arduino Yun, ESP8266 Arduino platforms, and anything that supports
 Arduino's Client interface (like Ethernet shield).
 
-See included examples for how to use the library to access an MQTT service to
-publish and subscribe.
+Learn how to use the library to access an MQTT service to
+publish and subscribe to any topic.
 
 
 ## Compatibility and Tested with below Hardware
