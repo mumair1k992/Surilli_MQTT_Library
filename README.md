@@ -18,10 +18,8 @@ Atmega328 @ 16MHz  |              |             |
 Atmega32u4 @ 16MHz |              |             |    
 Atmega32u4 @ 8MHz  |              |             |    
 ESP8266            |              |             |   
-Atmega2560 @ 16MHz |              |             |     
-ATSAM3X8E          |              |             |        
-ATSAM21D           |              |             |                         
-STM32F2            |              |             |         
+Atmega2560 @ 16MHz |              |             |           
+ATSAM21D           |              |             |                                
 
   * ATmega328 @ 16MHz : Arduino UNO
   * ATmega32u4 @ 16MHz : Arduino Leonardo,
