@@ -14,12 +14,12 @@ publish and subscribe.
 
 MCU                | Tested Works | Doesn't Work|
 ------------------ | :----------: | :----------:|
-Atmega328 @ 16MHz  |  - [x]    |             |     
-Atmega32u4 @ 16MHz |              |             |    
-Atmega32u4 @ 8MHz  |              |             |    
-ESP8266            |              |             |   
-Atmega2560 @ 16MHz |              |             |           
-ATSAM21D           |              |             |                                
+Atmega328 @ 16MHz  |- [x] Works   |             |     
+Atmega32u4 @ 16MHz |- [x] Works   |             |    
+Atmega32u4 @ 8MHz  |- [x] Works   |             |    
+ESP8266            |- [x] Works   |             |   
+Atmega2560 @ 16MHz |- [x] Works   |             |           
+ATSAM21D           |- [x] Works   |             |                                
 
   * ATmega328 @ 16MHz : Arduino UNO
   * ATmega32u4 @ 16MHz : Arduino Leonardo,
