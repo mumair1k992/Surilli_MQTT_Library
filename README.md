@@ -20,7 +20,7 @@ Atmega32u4 @ 8MHz  |- [x] Works   |             |
 ESP8266            |- [x] Works   |             |   
 Atmega2560 @ 16MHz |- [x] Works   |             |           
 ATSAM21D           |- [x] Works   |             |                                
-
+- [x] Works 
   * ATmega328 @ 16MHz : Arduino UNO
   * ATmega32u4 @ 16MHz : Arduino Leonardo,
   * ATmega32u4 @ 8MHz : Surilli GSM
