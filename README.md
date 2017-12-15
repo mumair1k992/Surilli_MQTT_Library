@@ -21,11 +21,11 @@ ESP8266            |- [x] Works  |             |
 Atmega2560 @ 16MHz |- [x] Works  |             |           
 ATSAM21D           |- [x] Works  |             |                                
 - [x] Works 
-  * ATmega328 @ 16MHz : Arduino UNO
-  * ATmega32u4 @ 16MHz : Arduino Leonardo,
-  * ATmega32u4 @ 8MHz : Surilli GSM
-  * ESP8266 : Surilli Wifi
-  * ATmega2560 @ 16MHz : Arduino Mega
-  * ATSAM21D : Arduino Zero, Surilli Basic
+- [x] ATmega328 @ 16MHz : Arduino UNO
+- [x] ATmega32u4 @ 16MHz : Arduino Leonardo,
+- [x] ATmega32u4 @ 8MHz : Surilli GSM
+- [x] ESP8266 : Surilli Wifi
+- [x] ATmega2560 @ 16MHz : Arduino Mega
+- [x] ATSAM21D : Arduino Zero, Surilli Basic
 
 <!-- END COMPATIBILITY TABLE -->
